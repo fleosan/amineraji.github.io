@@ -75,9 +75,10 @@ ul.navbar-nav.ms-auto li:last-child a {
 
 
 
-.fs-left {
+.fs-left, .sd-left {
     position: relative;
     height: 92vh;
+    overflow: hidden;
 }
 .textInfo {
     margin: 0;
@@ -128,10 +129,20 @@ img.fs-right-second {
     top: 45px;
 }
 
-/**
-.imgRight img {
-    position: absolute;
-    bottom: 0;
-    max-width: 100%;
-    height: auto;
-}**/
+span.bioTtile {
+    font-weight: 700;
+    font-size: 30px !important;
+    line-height: 0.9em;
+    display: block;
+}
+
+
+
+p.bioText {
+    color: black;
+    background: #ffc8ab;
+    margin: 15px 0px 0px 0px;
+    border-radius: 10px;
+    padding: 30px;
+    font-weight: 300;
+}
