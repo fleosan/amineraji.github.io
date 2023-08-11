@@ -62,6 +62,10 @@ ul.navbar-nav.ms-auto li:last-child a {
     overflow: hidden;
 }
 
+.owl-dots {
+    display: none;
+}
+
 .fs-right {
 
     width: auto;
