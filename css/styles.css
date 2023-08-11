@@ -129,6 +129,7 @@ img.fs-right-first {
     position: absolute;
     bottom: 0px;
     width: 70vh !important;
+    right: 0px;
 }
 
 img.fs-right-second {
