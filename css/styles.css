@@ -129,6 +129,14 @@ img.fs-right-second {
     top: 45px;
 }
 
+.bioInfo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
 span.bioTtile {
     font-weight: 700;
     font-size: 30px !important;
@@ -141,8 +149,9 @@ span.bioTtile {
 p.bioText {
     color: black;
     background: #ffc8ab;
-    margin: 15px 0px 0px 0px;
-    border-radius: 10px;
+    margin: 25px 0px 0px 0px;
+    border-radius: 20px 0px 20px 0px;
     padding: 30px;
     font-weight: 300;
+    line-height: 1.75em;
 }
