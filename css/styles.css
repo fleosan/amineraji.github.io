@@ -1,0 +1,133 @@
+* {
+    
+    font-size: 20px !important;
+}
+
+@font-face {
+    
+  font-family: "myFont";
+  src: url(../fonts/Anita%20semi%20square.ttf) format("truetype");
+  
+}
+
+
+
+.navmenu {
+    position: relative;
+    height: 8vh;
+    overflow: hidden;
+    
+}
+
+.menu {
+    padding-top: 10px;
+}
+
+.logo a {
+    font-family: 'myFont' , sans-serif;
+    text-decoration: none;
+    font-size: 35px !important;
+    color: #eab192;
+}
+
+.media li {
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid #eab192;
+    line-height: 0.75em;
+    border-radius: 10px;
+    margin: 25px 25px 0px 0px;
+}
+
+.media li svg {
+    fill: #3ba5e7;
+}
+
+ul.navbar-nav.ms-auto li:last-child a {
+    padding-right: 0px !important;
+    
+}
+
+.navmenu li.nav-item {
+    font-weight: 600;
+    padding-left: 40px;
+}
+
+.active {
+    color: #3ba5e7 !important;
+}
+
+.slider {
+    position: relative;
+    overflow: hidden;
+}
+
+.fs-right {
+
+    width: auto;
+    position: relative;
+    height: 100%;
+}
+
+
+
+.fs-left {
+    position: relative;
+    height: 92vh;
+}
+.textInfo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+
+p.tagline {
+    margin: 0px;
+    color: #eab192;
+    font-size: 17px !important;
+    width: 85%;
+}
+
+.textInfo span {
+    display: block;
+}
+
+span.fullName {
+    font-size: 80px !important;
+    font-weight: 600;
+    color: #3ba5e7;
+    margin-top: -10px;
+}
+
+span.hello {
+    font-size: 30px !important;
+    font-weight: 600;
+    line-height: 30px;
+    height: 0.75em;
+    color: black !important;
+}
+
+img.fs-right-first {
+    z-index: 9;
+    position: absolute;
+    bottom: 0px;
+}
+
+img.fs-right-second {
+    width: 650px !important;
+    height: 650px;
+    position: absolute;
+    left: -40px;
+    top: 45px;
+}
+
+/**
+.imgRight img {
+    position: absolute;
+    bottom: 0;
+    max-width: 100%;
+    height: auto;
+}**/
