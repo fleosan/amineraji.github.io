@@ -225,10 +225,9 @@ img.sd-right-first {
 
 
 .elevator img {
-    width: 500px !important;
-    height: 500px;
-    margin: 0px auto;
-
+    width: 600px !important;
+    height: 600px;
+    margin: auto;
 }
 
 
