@@ -183,11 +183,11 @@ img.sd-right-first {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    width: 117vh!important;
+    width: 115vh!important;
 }
     
     p.bioText {
-    color: blue;
+    color: black;
     margin: 25px 0px 0px 0px;
     font-weight: 300;
     line-height: 1.45em;
