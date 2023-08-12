@@ -179,17 +179,19 @@ img.sd-right-first {
 }
 
 .sliderPitch, .videoPitch {
-    text-align: center;
-    position: relative;
-}
-
-.trd-left, .trd-right {
     
     margin: 0;
     position: absolute;
     top: 45%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+   
+}
+
+.trd-left, .trd-right {
+    
+     text-align: center;
+    position: relative;
 }
 
 
