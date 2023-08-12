@@ -185,6 +185,7 @@ img.sd-right-first {
     bottom: -7px !important;
     right: 0px;
     width: 105vh !important;
+        height: 100%;
 }
     
     p.bioText {
