@@ -182,9 +182,9 @@ img.sd-right-first {
     
     img.sd-right-first {
     position: fixed;
-    bottom: -7px;
+    bottom: 0px;
     right: 0px;
-    width: 130vh;
+    width: 115vh;
 }
     
     p.bioText {
