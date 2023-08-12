@@ -159,7 +159,7 @@ p.bioText {
     margin: 25px 0px 0px 0px;
     font-weight: 300;
     line-height: 1.75em;
-    width: 60vh;
+    padding: 85px;
     
 }
 
@@ -177,7 +177,7 @@ img.sd-right-first {
     width: 125vh!important;
 }
 
-@media (min-width: 1000px) and (max-width: 1500px) {
+@media (min-width: 1025px) and (max-width: 1280px) {
     
     img.sd-right-first {
     position: fixed;
