@@ -155,11 +155,12 @@ span.bioTtile {
 
 
 p.bioText {
-    color: black;
+    color: blue;
     margin: 25px 0px 0px 0px;
     font-weight: 300;
     line-height: 1.75em;
     width: 60vh;
+    
 }
 
 .sd-right {
