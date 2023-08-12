@@ -206,7 +206,7 @@ img.sd-right-first {
     margin-bottom: 25px;
 }
 
-button.slideBtn, .videoBtn {
+a.slideBtn, .videoBtn {
     border: none;
     background: #009dff;
     color: white;
@@ -224,8 +224,8 @@ button.slideBtn, .videoBtn {
     position: fixed;
     bottom: -7px !important;
     right: 0px;
-    width: 5700px;
-        height: 580px;
+    width: 5500px;
+    height: 580px;
 }
     
     p.bioText {
