@@ -178,6 +178,11 @@ img.sd-right-first {
     height: 100%;
 }
 
+.sliderPitch, .videoPitch {
+    text-align: center;
+    position: relative;
+}
+
 .trd-left, .trd-right {
     
     margin: 0;
@@ -188,10 +193,7 @@ img.sd-right-first {
 }
 
 
-.sliderPitch, .videoPitch {
-    width: 100%;
-    text-align: center;
-}
+
 
 .sliderPitch img, .videoPitch img {
     width: 100%;
