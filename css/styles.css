@@ -175,3 +175,12 @@ img.sd-right-first {
     right: 0px;
     width: 125vh!important;
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+    img.sd-right-first {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 105vh!important;
+}
