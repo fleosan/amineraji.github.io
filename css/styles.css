@@ -224,8 +224,8 @@ button.slideBtn, .videoBtn {
     position: fixed;
     bottom: -7px !important;
     right: 0px;
-    width: 680px;
-        height: 680px;
+    width: 600px;
+        height: 550px;
 }
     
     p.bioText {
