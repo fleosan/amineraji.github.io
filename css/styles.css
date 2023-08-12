@@ -214,6 +214,7 @@ img.sd-right-first {
     border-radius: 10px;
     text-align: center;
     margin: 0px auto !important;
+    text-decoration: none;
 }
 
 
@@ -224,7 +225,7 @@ img.sd-right-first {
     position: fixed;
     bottom: -7px !important;
     right: 0px;
-    width: 550px;
+    width: 550px !important;
     height: 580px;
 }
     
