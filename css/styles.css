@@ -190,7 +190,7 @@ img.sd-right-first {
 
 .trd-left, .trd-right {
     
-     text-align: center;
+    text-align: center;
     position: relative;
     height: 92vh;
 }
@@ -206,7 +206,7 @@ img.sd-right-first {
     margin-bottom: 25px;
 }
 
-a.slideBtn, .videoBtn {
+.slideBtn, .videoBtn {
     border: none;
     background: #009dff;
     color: white;
@@ -224,7 +224,7 @@ a.slideBtn, .videoBtn {
     position: fixed;
     bottom: -7px !important;
     right: 0px;
-    width: 5500px;
+    width: 550px;
     height: 580px;
 }
     
