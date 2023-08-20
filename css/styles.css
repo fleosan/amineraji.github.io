@@ -101,10 +101,10 @@ p.tagline {
 }
 
 span.fullName {
-    font-size: 80px !important;
+    font-size: 60px !important;
     font-weight: 600;
     color: #3ba5e7;
-    margin-top: -10px;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 span.hello {
@@ -143,6 +143,7 @@ span.bioTtile {
     font-size: 30px !important;
     line-height: 0.9em;
     display: block;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 
@@ -255,6 +256,7 @@ img.sd-right-first {
     font-weight: 700;
     margin-bottom: 18px !important;
     display: block;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 
