@@ -3,12 +3,6 @@
     font-size: 20px !important;
 }
 
-@font-face {
-    
-  font-family: "myFont";
-  src: url(../fonts/Anita%20semi%20square.ttf) format("truetype");
-  
-}
 
 
 
@@ -22,7 +16,7 @@
 
 
 .logo a {
-    font-family: 'myFont' , sans-serif;
+    font-family: 'Pacifico', cursive;
     text-decoration: none;
     font-size: 35px !important;
     color: #eab192;
