@@ -103,10 +103,8 @@ p.tagline {
 
 span.fullName {
     font-size: 60px !important;
-    font-weight: 600;
     color: #3ba5e7;
     font-family: 'Philosopher', sans-serif;
-        margin-left: -5px;
 }
 
 span.hello {
